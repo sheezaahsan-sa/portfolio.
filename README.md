@@ -78,9 +78,3 @@ scripts/
   cv.html                  Print source for the CV PDF
 ```
 
-## Notes
-
-- No project GitHub links are shown because no verified repository URLs were provided. Add them to `projects` in `src/data/site.js` if available.
-- Skill proficiency percentages are intentionally omitted.
-- Motion respects `prefers-reduced-motion`.
-- No console errors, horizontal overflow, or broken internal anchors at 1440px, 390px, and 320px widths.
